@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+{% include 2023_data/head.html %}
+
+<body id="page-top" class="index">
+
+    {% include 2023_data/header-home.html %}
+
+    <!-- Header -->
+    <header rel="preload" fetchpriority="high">
+        <div class="container"
+            style="display:inline-block; position: absolute; top: 10vh; transform: translateX(-50%);">
+            <div style="position: absolute; left: 50%; transform: translateX(-50%);" class="intro-text">
+                <span style="white-space:nowrap; " class="intro-heading header-after-shiny">
+                    <span style="display:inline-block;" class="shiny">
+                        <span style="display:inline-block;" class="inner-shiny">
+                            Royal
+                        </span>
+                    </span style="display:inline-block;"><span id="coroana"><img fetchpriority="high" id="coroana_img"
+                            src="../css/2023_style/img/logos_echipa/coroana finala - nobg.png" loading="lazy"
+                            alt="coroana" /></span>
+                    Engineers</span>
+                <!-- <div class="intro-lead-in">Suceava, România</div> -->
+                <div class="intro-lead-in">RO195 #20936 ET.CNSCM</div>
+                <span><a href="#despre" id="btn-sus" style="margin: 0; position: absolute; transform: translateX(-50%);"
+                        class="page-scroll btn btn-xl">Vezi mai mult</a></span>
+            </div>
+        </div>
+    </header>
+
+    {% include 2023_data/intro.html %}
+    {% include 2023_data/despre.html %}
+    {% include 2023_data/speakers.html %}
+    {% include 2023_data/sponsors.html %}
+    {% include 2023_data/contact.html %}
+    {% include 2023_data/footer.html %}
+    <!-- {% include 2023_data/speakers_info.html %} -->
+    {% include 2023_data/js.html %}
+
+</body>
+
+</html>

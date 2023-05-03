@@ -1,0 +1,39 @@
+<style>
+    body {
+        position: absolute;
+        margin: 0;
+        min-height: 100%;
+        width: 100%;
+    }
+
+    footer {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+</style>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">
+                    &copy; {{ 'now' | date: "%Y" }} <b>Royal Engineers</b></a><br>
+                    design site: <a href="https://github.com/sabinM1" class="hovertext"
+                        data-hover="Dezvoltator principal">Maxim Sabin</a>, <a
+                        href="https://www.instagram.com/_.s.t.e.f.a.n.__/" class="hovertext"
+                        data-hover="Web designer">Bozomală Ștefan</a>, <a href=" http://melvinchng.github.io"
+                        class="hovertext" data-hover="Site original">Melvin Ch'ng</a>
+                </span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa-brands fa-{{ network.title }}"></i></a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

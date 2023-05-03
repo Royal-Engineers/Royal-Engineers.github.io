@@ -1,0 +1,34 @@
+<!-- despre Section -->
+<section id="despre">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">despre</h2>
+                <h3 class="section-subheading text-muted"></h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="timeline">
+                    {% for despre_data in site.data.twenty_16.home_despre_data %}
+                    <li class="{{ despre_data.inverted }}">
+                        <div class="timeline-image">
+                            <img loading="lazy" fetchpriority="low" class="img-circle img-responsive"
+                                src="../css/2023_style/img/despre/{{ despre_data.img }}" alt="img">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading" style="text-align: left;">
+                                <h4>{{ despre_data.name }}</h4>
+                            </div>
+                            <div class="timeline-heading">
+                                <p class="text-muted">{{ despre_data.info }}</p>
+                            </div>
+                            <!-- <a href="{{ despre_data.link }}" class="page-scroll btn btn-sm">Learn More</a> -->
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

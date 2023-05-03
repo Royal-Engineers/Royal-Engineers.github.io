@@ -1,0 +1,64 @@
+<!-- Portfolio Grid Section -->
+<script>
+    function toggle(elementId) {
+        const element = document.getElementById(elementId);
+        if (element.style.display === "none") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+</script>
+
+<div id="sus"></div>
+<section id="media" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Media</h2>
+                <h3 class="section-subheading text-muted"></h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for post in site.data.twenty_16.speakers %}
+            <div class="col-md-4 col-sm-6 speakers-item">
+                <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+                    <div class="speakers-hover">
+                        <div class="speakers-hover-content">
+                            <i class="fa fa-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img loading="lazy" fetchpriority="low" src="../css/2023_style/img/media/{{ post.thumbnail }}"
+                        class="img-responsive img-centered" alt="">
+                </a>
+                <div class="speakers-caption">
+                    <h4>{{ post.title }}</h4>
+                    <p class="text-muted">{{ post.subtitle }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-lg-12 text-center text-muted">
+        Mai multe imagini se pot găsi pe pagina noastră de Instagram, <a
+            href="https://www.instagram.com/electrified.titans/">
+            <i class="fa-brands fa-instagram"></i> electrified.titans</a>
+        <div style="padding-top: 20px; padding-bottom: 10px;">
+            <span>Vezi și portofoliile tehnice din anii precedenți:</span>
+        </div>
+        <span style="padding-right: 20px;">
+            <a href="https://heyzine.com/flip-book/cdb75ef993.html" target="_BLANK" class="heyzine-link fp-link"><img
+                    loading="lazy" fetchpriority="low" src="https://cdnc.heyzine.com/flip-book/cover/cdb75ef993.jpg"
+                    class="fp-thumb" alt="caiet1"
+                    style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; max-width: 100%"
+                    title=""></a>
+        </span>
+        <span>
+            <a href="https://heyzine.com/flip-book/4057e51969.html" target="_BLANK" class="heyzine-link fp-link"><img
+                    loading="lazy" fetchpriority="low" src="https://cdnc.heyzine.com/flip-book/cover/4057e51969.jpg"
+                    class="fp-thumb" alt="caiet2"
+                    style="border: 1px solid lightgray; box-shadow: lightgray 0px 0px 4px 1px; max-width: 100%"
+                    title=""></a>
+        </span>
+    </div>
+</section>

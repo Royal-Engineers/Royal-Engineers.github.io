@@ -1,0 +1,29 @@
+- inverted: 
+  img: info-solid.png
+  name: Viziunea și misiunea noastră
+  info: "Înființat cu scopul de răspândi educația STEAM, Clubul de Electronică al Colegiului Național „Ștefan cel Mare” Suceava a devenit echipa de robotică Electrified Titans, care mai târziu a evoluat în Royal Engineers. Învățăm pe parcurs, aflăm lucruri noi și cunoaștem persoane din domeniu pentru a face cunoscută robotica."
+  # link: "/2023/despre"
+
+# - inverted: timeline-inverted
+#   img: icon-agenda.jpeg
+#   name: Agenda
+#   info: Check out the agenda
+#   link: /2023/agenda
+
+- inverted: timeline-inverted
+  img: icon-team.jpeg
+  name: Echipa
+  info: "Clubul de Robotică înființat de către doi absolvenți, acum devenit inima ingineriei din liceul nostru, se dezvoltă împreună cu echipa sa și formează noi generații. Ne împărțim munca și ne ajutăm reciproc pentru a realiza un robot cât mai performant. Comunicarea este esențială în cadrul echipei, iar fiecare membru este încurajat să își exprime ideile și să ofere feedback constructiv pentru a ajuta la îmbunătățirea proiectului."
+  # link: /2023/team
+
+- inverted:
+  img: robot-solid.png
+  name: Robotul nostru
+  info: "Robotul nostru este rezultatul muncii depuse. Fiecare membru al echipei a adus propriile abilități și cunoștințe în dezvoltarea și construirea robotului. Cu o structură solidă și componente avansate, acesta este capabil să îndeplinească cu succes sarcinile impuse de competiție. Efortul comun și încrederea în abilitățile celorlalți membri ne-au permis să obținem un robot puternic și eficient, gata să concureze cu cele mai bune echipe din lume!"
+  # link: /2023/faqs
+
+- inverted: timeline-inverted
+  img: ftc.png
+  name: FIRST® Tech Challange
+  info: "FIRST® este o comunitate de robotică care pregătește tinerii pentru viitor printr-o suită de programe de robotică incluzive, bazate pe echipe, pentru vârstele 4-18. Îmbunătățite de un sistem global de sprijin de voluntari, educatori și sponsori, echipele operează sub un set semnătură de FIRST Core Values pentru a efectua cercetări, strânge de fonduri, proiecta, construi și prezenta realizările lor în timpul provocărilor anuale."
+  # link: /2023/venue

@@ -1,0 +1,80 @@
+- title: Începutul sezonului FTC 2023
+  name: inceputuri
+  subtitle: Echipa în fața Colegiului Național „Ștefan cel Mare”<br><i>21 ianuarie 2023</i>
+  img: liceu.jpg
+  thumbnail: liceu.jpg
+  alt: Începuturi
+  topic: Începuturi
+  description: Echipa în fața Colegiului Național „Ștefan cel Mare”
+
+- title: Primul DEMO
+  name: demo
+  subtitle: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”<br><i>24 ianuarie 2023</i>
+  img: Ploiesti.jpg
+  thumbnail: Ploiesti.jpg
+  alt: Primul DEMO
+  topic: Primul DEMO
+  description: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”
+
+- title: Etapa regională FTC
+  name: regionala
+  subtitle: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challange<br><i>13-15 februarie 2023</i>
+  img: Bucuresti.jpg
+  thumbnail: Bucuresti.jpg
+  alt: Etapa regională FTC
+  topic: Etapa regională FTC
+  description: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challange
+
+- title: Robotul Florin la Unirea Roboților
+  name: robot1
+  subtitle: Florin în vizită la Ploiești<br><br><i>24 ianuarie 2023</i>
+  img: robot_Ploiesti.jpg
+  thumbnail: robot_Ploiesti.jpg
+  alt: Robotul la Ploiești
+  topic: Robotul la Ploiești
+  description: Florin în vizită la Ploiești
+
+- title: Robotul înainte de etapa regională
+  name: robot2
+  subtitle: Versiunea a doua a robotului, pregătit de etapa regională FTC<br><i>11 februarie 2023</i>
+  img: robot_liceu.jpg
+  thumbnail: robot_liceu.jpg
+  alt: Robotul Florin înainte de etapa regională
+  topic: Robotul Florin înainte de etapa regională
+  description: Versiunea a doua a robotului, pregătit de etapa regională FTC
+
+- title: Florin la București
+  name: robot3
+  subtitle: Gata de competiție!<br><br><i>14 februarie 2023</i>
+  img: full_robot_Bucuresti.png
+  thumbnail: robot_Bucuresti.png
+  alt: Florin la București
+  topic: Florin la București
+  description: Gata de competiție!
+
+- title: Robotul de sezonul trecut
+  name: robot4
+  subtitle: Nu este el cel mai arătos, dar este funcțional<br><br><i>13 martie 2022</i>
+  img: robot_anul_trecut.jpg
+  thumbnail: robot_anul_trecut.jpg
+  alt: Robotul de sezonul trecut
+  topic: Robotul de sezonul trecut
+  description: Nu este el cel mai arătos, dar este funcțional
+
+- title: Activitate la Noaptea Cercetătorilor
+  name: noaptea_cercetatorilor
+  subtitle: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni<br><i>30 septembrie 2022</i>
+  img: Noaptea_Cercetatorilor.jpg
+  thumbnail: Noaptea_Cercetatorilor.jpg
+  alt: Activitate la Noaptea Cercetătorilor
+  topic: Activitate la Noaptea Cercetătorilor
+  description: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni
+
+- title: Activitate la Târgul de Crăciun
+  name: craciun
+  subtitle: Clubul de robotică la vânzare de piese printate, pentru al doilea an la rând<br><i>decembrie 2021, 2022</i>
+  img: Craciun.png
+  thumbnail: Craciun.png
+  alt: Activitate la Târgul de Crăciun
+  topic: Activitate la Târgul de Crăciun
+  description: Clubul de robotică la vânzare de piese printate, pentru al doilea an la rând
