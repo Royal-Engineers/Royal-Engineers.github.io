@@ -25,6 +25,8 @@ social:
     url: https://www.instagram.com/royal.engineers_/
   - title: tiktok
     url: https://www.tiktok.com/@royal.engineers
+  - title: youtube
+    url: https://www.youtube.com/@royalengineerss2636
 # Build settings
 markdown: kramdown
 permalink: pretty
