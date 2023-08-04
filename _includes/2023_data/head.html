@@ -6,7 +6,6 @@
     <meta name="description" content="{{ site.description }}">
     <meta http-equiv="onion-location" content="http://royaltorpqzbydcuqjwcioydzxwgciyz6expjcu6effyfgi6u4raxvad.onion" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
     <!-- WEBSITE ICON IN BROWSER -->
     <!-- <link rel="icon" type="image/png" href="/css/2023_style/img/logos_echipa/coroana finala - nobg.png"> -->
     <link rel="icon" type="image/png" sizes="32x32" href="/css/2023_style/img/favicon/favicon-32x32.png">
@@ -14,8 +13,41 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/css/2023_style/img/favicon/apple-touch-icon.png">
     <link crossorigin="use-credentials" rel="manifest" href="/css/2023_style/img/favicon/site.webmanifest">
     <link rel="icon" type="image/x-icon" href="/css/2023_style/img/favicon/favicon.ico">
-
     {% seo %}
+
+    <script>
+        /*
+        Script drăguț, după ce se termină încărcarea conținutului principal,
+        începe să încarce, pe rând, imaginele de la despre, susținători și media
+        (prin înlocuirea attribute-ului "data-src" cu "src", sursa imaginii; asta
+        va merge doar cu JS, deci trebuie pus un tag <noscript> la fiecare imagine
+        încărcată în acest mod)
+        - Sabin M. 4.08.2023
+        */
+        function init() {
+            var imgDefer = document.getElementsByClassName('img_defer_despre');
+            for (var i = 0; i < imgDefer.length; i++) {
+                if (imgDefer[i].getAttribute('data-src')) {
+                    imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+                }
+            }
+            imgDefer = document.getElementsByClassName('img_defer_sustinatori');
+            for (var i = 0; i < imgDefer.length; i++) {
+                if (imgDefer[i].getAttribute('data-src')) {
+                    imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+                }
+            }
+            imgDefer = document.getElementsByClassName('img_defer_media');
+            for (var i = 0; i < imgDefer.length; i++) {
+                if (imgDefer[i].getAttribute('data-src')) {
+                    imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+                }
+            }
+        }
+
+        window.onload = init;
+    </script>
+
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ " ../css/2023_style/style.css" | prepend: site.baseurl }}">
@@ -56,7 +88,8 @@
         media="print" onload="this.onload=null;this.removeAttribute('media');" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,200;1,300;1,400;1,500&display=swap"
         rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" type="text/css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono&display=swap" rel="stylesheet"
+        media="print" onload="this.onload=null;this.removeAttribute('media');" type="text/css">
     <noscript>
         <link rel="stylesheet" href="{{ " ../css/2023_style/font-awesome/css/font-awesome.min.css" | prepend:
             site.baseurl }}">
@@ -71,7 +104,9 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700&display=swap" rel="stylesheet"
             type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,200;1,300;1,400;1,500&display=swap"
-            rel="stylesheet">
+            rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono&display=swap" rel="stylesheet"
+            type="text/css">
     </noscript>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

@@ -1233,6 +1233,59 @@ body {
     visibility: visible;
 }
 
+.wrap_iban {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.iban {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 250px;
+    background-image: url('../../css/2023_style/img/bank.png');
+    background-size: cover;
+    text-decoration: none;
+    background-position: center; 
+}
+
+.iban::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.iban_titlu {
+    font: inherit;
+    position: relative;
+    font-size: 2vw;
+    color: white;
+    overflow-wrap: break-word;
+}
+
+@media only screen and (min-width: 700px)  {  .iban_titlu  { font-size:40px;  } }
+
+@supports (-webkit-text-stroke: 2px white) {
+    .iban_titlu {
+      color: transparent;
+      -webkit-text-stroke: 2px white;
+    }
+  }
+
 /* #stroke {
     -webkit-text-stroke: 2px black;
     paint-order: stroke fill;

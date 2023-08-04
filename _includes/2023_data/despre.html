@@ -13,8 +13,12 @@
                     {% for despre_data in site.data.twenty_16.home_despre_data %}
                     <li class="{{ despre_data.inverted }}">
                         <div class="timeline-image">
-                            <img loading="lazy" fetchpriority="low" class="img-circle img-responsive"
-                                src="../css/2023_style/img/despre/{{ despre_data.img }}" alt="img">
+                            <noscript>
+                                <img loading="eager" fetchpriority="low" class="img-circle img-responsive"
+                                    src="../css/2023_style/img/despre/{{ despre_data.img }}" alt="img">
+                            </noscript>
+                            <img loading="eager" fetchpriority="low" class="img-circle img-responsive img_defer_despre"
+                                data-src="../css/2023_style/img/despre/{{ despre_data.img }}" alt="img">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading" style="text-align: left;">
