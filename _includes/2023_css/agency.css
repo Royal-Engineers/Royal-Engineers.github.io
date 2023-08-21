@@ -1251,7 +1251,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: auto;
+    width: 80vw;
     height: 250px;
     background-image: url('../../css/2023_style/img/bank.png');
     background-size: cover;
@@ -1272,21 +1272,17 @@ body {
 .iban_titlu {
     font: inherit;
     position: relative;
-    font-size: 2vw;
+    font-size: 5vw;
     color: white;
     overflow-wrap: break-word;
 }
 
-@media only screen and (min-width: 700px)  {  .iban_titlu  { font-size:40px;  } }
-
-@supports (-webkit-text-stroke: 2px white) {
+@media only screen and (min-width: 700px) {
     .iban_titlu {
-      color: transparent;
-      -webkit-text-stroke: 2px white;
+        font-size: 40px;
     }
-  }
 
-/* #stroke {
-    -webkit-text-stroke: 2px black;
-    paint-order: stroke fill;
-} */
+    .iban {
+        width: auto;
+    }
+}
