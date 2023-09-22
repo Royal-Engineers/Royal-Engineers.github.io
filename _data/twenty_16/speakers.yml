@@ -27,7 +27,7 @@
 
 - title: Robotul Florin la Unirea Roboților
   name: robot1
-  subtitle: Florin în vizită la Ploiești<br><br><i>24 ianuarie 2023</i>
+  subtitle: Florin în vizită la Ploiești<br><i>24 ianuarie 2023</i>
   img: robot_Ploiesti.jpg
   thumbnail: robot_Ploiesti.jpg
   alt: Robotul la Ploiești
@@ -54,7 +54,7 @@
 
 - title: Robotul de sezonul trecut
   name: robot4
-  subtitle: Nu este el cel mai arătos, dar este funcțional<br><br><i>13 martie 2022</i>
+  subtitle: Nu este el cel mai arătos, dar este funcțional<br><i>13 martie 2022</i>
   img: robot_anul_trecut.jpg
   thumbnail: robot_anul_trecut.jpg
   alt: Robotul de sezonul trecut
@@ -131,4 +131,13 @@
   thumbnail: boboci1.jpg
   alt: Prima întâlnire a anului cu bobocii
   topic: Prima întâlnire a anului cu bobocii
-  description: Ne-am văzut cu viitorii membrii ai clubului<br><i>28 august 2023</i>
+  description: Ne-am văzut cu viitorii membrii ai clubului
+
+- title: Recruitment day
+  name: recruitment
+  subtitle: Din ce in ce mai mulți membrii!<br><i>22 septembrie 2023</i>
+  img: recruitment.jpg
+  thumbnail: recruitment.jpg
+  alt: Prima întâlnire a anului cu bobocii
+  topic: Prima întâlnire a anului cu bobocii
+  description: Din ce in ce mai mulți membrii!
