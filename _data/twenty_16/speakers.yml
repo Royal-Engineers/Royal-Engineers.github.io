@@ -135,9 +135,18 @@
 
 - title: Recruitment day
   name: recruitment
-  subtitle: Din ce in ce mai mulți membrii!<br><i>22 septembrie 2023</i>
+  subtitle: Din ce în ce mai mulți membrii!<br><i>22 septembrie 2023</i>
   img: recruitment.jpg
   thumbnail: recruitment.jpg
-  alt: Prima întâlnire a anului cu bobocii
-  topic: Prima întâlnire a anului cu bobocii
-  description: Din ce in ce mai mulți membrii!
+  alt: Din ce în ce mai mulți membrii!
+  topic: Din ce în ce mai mulți membrii!
+  description: Din ce în ce mai mulți membrii!
+
+- title: Noaptea Cercetătorilor Europeni 2023
+  name: noaptea_cercetatorilor23
+  subtitle: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!<br><i>29 septembrie 2023</i>
+  img: noaptea_cercetatorilor23.jpg
+  thumbnail: noaptea_cercetatorilor23.jpg
+  alt: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
+  topic: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
+  description: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
