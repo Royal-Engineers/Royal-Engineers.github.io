@@ -151,11 +151,110 @@
   topic: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
   description: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
 
+- title: Secret Santa în cadrul clubului
+  name: Santa
+  subtitle: Crăciun fericit!<br><i>15 decembrie 2023</i>
+  img: Santa.png
+  thumbnail: Santa.png
+  alt: Secret Santa în cadrul clubului
+  topic: Secret Santa în cadrul clubului
+  description: Crăciun fericit!
+
 - title: Târgul de Crăciun pentru caritate
   name: craciun2
-  subtitle: Al treilea an la rând!<br><i>20 decembrie 2023</i>
+  subtitle: Marți, 19 decembrie, a avut loc mult așteptatul Târg Caritabil de Crăciun din cadrul Colegiului Național „Ștefan cel Mare”!<br>Al treilea an la rând!<br><i>19 decembrie 2023</i>
   img: Craciun2.jpg
   thumbnail: Craciun2.jpg
   alt: Târgul de Crăciun pentru caritate
   topic: Târgul de Crăciun pentru caritate
   description: Al treilea an la rând!
+
+- title: Schimb de experiență
+  name: Moldova
+  subtitle: un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență.<br><i>5 ianuarie 2024</i>
+  img: Moldova.png
+  thumbnail: Moldova.png
+  alt: Schimb de experiență
+  topic: Schimb de experiență
+  description: Un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență. Ideile inovatoare și tehnologia avansată s-au unit pentru a crea o atmosferă propice pentru schimbul de cunoștințe. Profesorii moldoveni au fost primiți cu căldură de către membrii entuziaști ai clubului de robotică, care au prezentat cu mândrie proiectele lor și realizările tehnologice.
+
+- title: Dual Meet
+  name: Dual_meet
+  subtitle: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.<br><i>13 ianuarie 2024</i>
+  img: Dual_meet.jpg
+  thumbnail: Dual_meet.jpg
+  alt: Dual Meet
+  topic: Dual Meet
+  description: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.
+
+- title: League Meet of Penguins
+  name: Penguins
+  subtitle: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.<br><i>20 ianuarie 2024</i>
+  img: Penguins.jpg
+  thumbnail: Penguins.jpg
+  alt: League Meet of Penguins
+  topic: League Meet of Penguins
+  description: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.
+
+- title: LeagueMeet-ul dintre Munți
+  name: Munti
+  subtitle: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.<br><i>27 ianuarie 2024</i>
+  img: Munti.jpg
+  thumbnail: Munti.jpg
+  alt: LeagueMeet-ul dintre Munți
+  topic: LeagueMeet-ul dintre Munți
+  description: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.
+
+- title: Ultimul League Meet din sezon
+  name: Lmcyliis
+  subtitle: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.<br><i>3 februarie 2024</i>
+  img: Lmcyliis.jpg
+  thumbnail: Lmcyliis.jpg
+  alt: Ultimul League Meet din sezon
+  topic: Ultimul League Meet din sezon
+  description: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.
+
+- title: Regionala FTC
+  name: Regionala
+  subtitle: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.<br><i>8-10 martie 2024</i>
+  img: Regionala.png
+  thumbnail: Regionala.png
+  alt: Regionala FTC
+  topic: Regionala FTC
+  description: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.
+
+- title: Parteneriat cu Universitatea „Ștefan Cel Mare”
+  name: USV
+  subtitle: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava.<br><i>27 martie 2024</i>
+  img: USV.jpg
+  thumbnail: USV.jpg
+  alt: Parteneriat cu Universitatea „Ștefan Cel Mare”
+  topic: Parteneriat cu Universitatea „Ștefan Cel Mare”
+  description: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava. Le-am prezentat atât studenților cât și profesorilor universitari robotul nostru de anul acesta și perfomanțele noastre din acest sezon.
+
+- title: Târgul liceelor
+  name: TLiceelor24
+  subtitle: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.<br><i>29 martie 2024</i>
+  img: TLiceelor24.jpg
+  thumbnail: TLiceelor24.jpg
+  alt: Târgul liceelor
+  topic: Târgul liceelor
+  description: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.
+
+- title: InBussines Club
+  name: InBClub
+  subtitle: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.<br><i>30 mai 2024</i>
+  img: InBClub.jpg
+  thumbnail: InBClub.jpg
+  alt: InBussines Club
+  topic: InBussines Club
+  description: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.
+
+- title: Participare la EduFortress
+  name: Edufortress
+  subtitle: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!<br><i>2 iunie 2024</i>
+  img: Edufortress.jpg
+  thumbnail: Edufortress.jpg
+  alt: Participare la EduFortress
+  topic: Participare la EduFortress
+  description: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!
