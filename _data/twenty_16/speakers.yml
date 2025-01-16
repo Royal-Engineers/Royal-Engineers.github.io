@@ -1,314 +1,314 @@
-- title: Începutul sezonului FTC 2023
-  name: inceputuri
-  subtitle: Echipa în fața Colegiului Național „Ștefan cel Mare”<br><i>21 ianuarie 2023</i>
-  img: liceu.jpg
-  thumbnail: liceu.jpg
-  alt: Începuturi
-  topic: Începuturi
-  description: Echipa în fața Colegiului Național „Ștefan cel Mare”
-
-- title: Primul DEMO
-  name: demo
-  subtitle: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”<br><i>24 ianuarie 2023</i>
-  img: Ploiesti.jpg
-  thumbnail: Ploiesti.jpg
-  alt: Primul DEMO
-  topic: Primul DEMO
-  description: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”
-
-- title: Etapa regională FTC
-  name: regionala
-  subtitle: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challenge<br><i>13-15 februarie 2023</i>
-  img: Bucuresti.jpg
-  thumbnail: Bucuresti.jpg
-  alt: Etapa regională FTC
-  topic: Etapa regională FTC
-  description: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challenge
-
-- title: Robotul Florin la Unirea Roboților
-  name: robot1
-  subtitle: Florin în vizită la Ploiești<br><i>24 ianuarie 2023</i>
-  img: robot_Ploiesti.jpg
-  thumbnail: robot_Ploiesti.jpg
-  alt: Robotul la Ploiești
-  topic: Robotul la Ploiești
-  description: Florin în vizită la Ploiești
-
-- title: Robotul înainte de etapa regională
-  name: robot2
-  subtitle: Versiunea a doua a robotului, pregătit de etapa regională FTC<br><i>11 februarie 2023</i>
-  img: robot_liceu.jpg
-  thumbnail: robot_liceu.jpg
-  alt: Robotul Florin înainte de etapa regională
-  topic: Robotul Florin înainte de etapa regională
-  description: Versiunea a doua a robotului, pregătit de etapa regională FTC
-
-- title: Florin la București
-  name: robot3
-  subtitle: Gata de competiție!<br><br><i>14 februarie 2023</i>
-  img: full_robot_Bucuresti.png
-  thumbnail: robot_Bucuresti.png
-  alt: Florin la București
-  topic: Florin la București
-  description: Gata de competiție!
-
-- title: Robotul de sezonul trecut
-  name: robot4
-  subtitle: Nu este el cel mai arătos, dar este funcțional<br><i>13 martie 2022</i>
-  img: robot_anul_trecut.jpg
-  thumbnail: robot_anul_trecut.jpg
-  alt: Robotul de sezonul trecut
-  topic: Robotul de sezonul trecut
-  description: Nu este el cel mai arătos, dar este funcțional
-
-- title: Activitate la Noaptea Cercetătorilor
-  name: noaptea_cercetatorilor
-  subtitle: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni<br><i>30 septembrie 2022</i>
-  img: Noaptea_Cercetatorilor.jpg
-  thumbnail: Noaptea_Cercetatorilor.jpg
-  alt: Activitate la Noaptea Cercetătorilor
-  topic: Activitate la Noaptea Cercetătorilor
-  description: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni
-
-- title: Activitate la Târgul de Crăciun
-  name: craciun
-  subtitle: Clubul de robotică la vânzare de piese printate, pentru al doilea an la rând<br><i>decembrie 2021, 2022</i>
-  img: Craciun.png
-  thumbnail: Craciun.png
-  alt: Activitate la Târgul de Crăciun
-  topic: Activitate la Târgul de Crăciun
-  description: Clubul de robotică la vânzare de piese printate, pentru al doilea an la rând
-
-- title: Târgul Liceelor
-  name: targulliceelor
-  subtitle: Clubul de robotică promovând educația STEAM<br><i>19 mai 2023</i>
-  img: targul_liceelor_2023.jpg
-  thumbnail: targul_liceelor_2023.jpg
-  alt: Activitate la Târgul Liceelor
-  topic: Activitate la Târgul Liceelor
-  description: Clubul de robotică promovând educația STEAM
-
-- title: DEMO springLoad() Târgu Neamț
-  name: DEMO
-  subtitle: Echipa în vizită la Târgu Neamț, câștigând FINALIST ALLIANCE CAPTAIN<br><i>9 iunie 2023</i>
-  img: targu_neamt.jpeg
-  thumbnail: targu_neamt.jpeg
-  alt: DEMO Târgu Neamț
-  topic: DEMO Târgu Neamț
-  description: Echipa în vizită la Târgu Neamț, câștigând FINALIST ALLIANCE CAPTAIN
-
-- title: DEMO Someș Tech Challenge Dej
-  name: DEMO_S
-  subtitle: Echipa în vizită la Dej, câștigând locul al treilea<br><i>2 iulie 2023</i>
-  img: Dej.jpg
-  thumbnail: Dej.jpg
-  alt: DEMO Someș Tech Challenge
-  topic: DEMO Someș Tech Challenge
-  description: Echipa în vizită la Dej, câștigând locul al treilea
-
-- title: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale”
-  name: Monitorul2707
-  subtitle: Am apărut în Monitorul de Suceava!<br><i>27 iulie 2023</i>
-  img: monitorul.png
-  thumbnail: monitorul_ziar.png
-  alt: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale”
-  topic: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale”
-  description: "Am apărut în Monitorul de Suceava! Vezi mai mult aici: <a href=\"https://www.monitorulsv.ro/Local/2023-07-27/Noua-liceeni-suceveni-au-construit-un-robot-cu-care-fac-senzatie-la-concursuri-nationale-si-vor-sa-ajunga-la-mondiale\">https://www.monitorulsv.ro/Local/2023-07-27/Noua-liceeni-suceveni-au-construit-un-robot-cu-care-fac-senzatie-la-concursuri-nationale-si-vor-sa-ajunga-la-mondiale</a>"
-
-- title: „Vara Ștefaniștilor”, școala de vară de la CNSCM
-  name: Vara_Stef
-  subtitle: Activitate la Vara Ștefaniștilor de la Colegiul Național „Ștefan cel Mare” Suceava<br><i>11 august 2023</i>
-  img: Vara_stef.jpg
-  thumbnail: Vara_stef.jpg
-  alt: „Vara Ștefaniștilor”, școala de vară de la CNSCM
-  topic: „Vara Ștefaniștilor”, școala de vară de la CNSCM
-  description: Activitate la Vara Ștefaniștilor de la Colegiul Național „Ștefan cel Mare” Suceava
-
-- title: Prima întâlnire a anului cu bobocii
-  name: boboci1
-  subtitle: Ne-am văzut cu viitorii membrii ai clubului<br><i>28 august 2023</i>
-  img: boboci1.jpg
-  thumbnail: boboci1.jpg
-  alt: Prima întâlnire a anului cu bobocii
-  topic: Prima întâlnire a anului cu bobocii
-  description: Ne-am văzut cu viitorii membrii ai clubului
-
-- title: Recruitment day
-  name: recruitment
-  subtitle: Din ce în ce mai mulți membrii!<br><i>22 septembrie 2023</i>
-  img: recruitment.jpg
-  thumbnail: recruitment.jpg
-  alt: Din ce în ce mai mulți membrii!
-  topic: Din ce în ce mai mulți membrii!
-  description: Din ce în ce mai mulți membrii!
-
-- title: Noaptea Cercetătorilor Europeni 2023
-  name: noaptea_cercetatorilor23
-  subtitle: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!<br><i>29 septembrie 2023</i>
-  img: noaptea_cercetatorilor23.jpg
-  thumbnail: noaptea_cercetatorilor23.jpg
-  alt: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
-  topic: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
-  description: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
-
-- title: Secret Santa în cadrul clubului
-  name: Santa
-  subtitle: Crăciun fericit!<br><i>15 decembrie 2023</i>
-  img: Santa.png
-  thumbnail: Santa.png
-  alt: Secret Santa în cadrul clubului
-  topic: Secret Santa în cadrul clubului
-  description: Crăciun fericit!
-
-- title: Târgul de Crăciun pentru caritate
-  name: craciun2
-  subtitle: Marți, 19 decembrie, a avut loc mult așteptatul Târg Caritabil de Crăciun din cadrul Colegiului Național „Ștefan cel Mare”!<br>Al treilea an la rând!<br><i>19 decembrie 2023</i>
-  img: Craciun2.jpg
-  thumbnail: Craciun2.jpg
-  alt: Târgul de Crăciun pentru caritate
-  topic: Târgul de Crăciun pentru caritate
-  description: Al treilea an la rând!
-
-- title: Schimb de experiență
-  name: Moldova
-  subtitle: un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență.<br><i>5 ianuarie 2024</i>
-  img: Moldova.png
-  thumbnail: Moldova.png
-  alt: Schimb de experiență
-  topic: Schimb de experiență
-  description: Un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență. Ideile inovatoare și tehnologia avansată s-au unit pentru a crea o atmosferă propice pentru schimbul de cunoștințe. Profesorii moldoveni au fost primiți cu căldură de către membrii entuziaști ai clubului de robotică, care au prezentat cu mândrie proiectele lor și realizările tehnologice.
-
-- title: Dual Meet
-  name: Dual_meet
-  subtitle: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.<br><i>13 ianuarie 2024</i>
-  img: Dual_meet.jpg
-  thumbnail: Dual_meet.jpg
-  alt: Dual Meet
-  topic: Dual Meet
-  description: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.
-
-- title: League Meet of Penguins
-  name: Penguins
-  subtitle: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.<br><i>20 ianuarie 2024</i>
-  img: Penguins.jpg
-  thumbnail: Penguins.jpg
-  alt: League Meet of Penguins
-  topic: League Meet of Penguins
-  description: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.
-
-- title: LeagueMeet-ul dintre Munți
-  name: Munti
-  subtitle: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.<br><i>27 ianuarie 2024</i>
-  img: Munti.jpg
-  thumbnail: Munti.jpg
-  alt: LeagueMeet-ul dintre Munți
-  topic: LeagueMeet-ul dintre Munți
-  description: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.
-
-- title: Ultimul League Meet din sezon
-  name: Lmcyliis
-  subtitle: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.<br><i>3 februarie 2024</i>
-  img: Lmcyliis.jpg
-  thumbnail: Lmcyliis.jpg
-  alt: Ultimul League Meet din sezon
-  topic: Ultimul League Meet din sezon
-  description: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.
-
-- title: Regionala FTC
-  name: Regionala
-  subtitle: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.<br><i>8-10 martie 2024</i>
-  img: Regionala.png
-  thumbnail: Regionala.png
-  alt: Regionala FTC
-  topic: Regionala FTC
-  description: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.
-
-- title: Parteneriat cu Universitatea „Ștefan Cel Mare”
-  name: USV
-  subtitle: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava.<br><i>27 martie 2024</i>
-  img: USV.jpg
-  thumbnail: USV.jpg
-  alt: Parteneriat cu Universitatea „Ștefan Cel Mare”
-  topic: Parteneriat cu Universitatea „Ștefan Cel Mare”
-  description: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava. Le-am prezentat atât studenților cât și profesorilor universitari robotul nostru de anul acesta și perfomanțele noastre din acest sezon.
-
-- title: Târgul liceelor
-  name: TLiceelor24
-  subtitle: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.<br><i>29 martie 2024</i>
-  img: TLiceelor24.jpg
-  thumbnail: TLiceelor24.jpg
-  alt: Târgul liceelor
-  topic: Târgul liceelor
-  description: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.
-
-- title: InBussines Club
-  name: InBClub
-  subtitle: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.<br><i>30 mai 2024</i>
-  img: InBClub.jpg
-  thumbnail: InBClub.jpg
-  alt: InBussines Club
-  topic: InBussines Club
-  description: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.
-
-- title: Participare la EduFortress
-  name: Edufortress
-  subtitle: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!<br><i>2 iunie 2024</i>
-  img: Edufortress.jpg
-  thumbnail: Edufortress.jpg
-  alt: Participare la EduFortress
-  topic: Participare la EduFortress
-  description: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!
-
-- title: Workshop Vara Ștefaniștilor 7
-  name: VS7
-  subtitle: Am organizat un WORKSHOP în aula Colegiului Național „Ștefan cel Mare” destinat noilor ștefaniști. Am avut ocazia să le arătăm bobocilor ce înseamnă să faci parte din echipa noastră.<br><i>12 august 2024</i>
-  img: VS7.jpg
-  thumbnail: VS7.jpg
-  alt: Workshop Vara Ștefaniștilor 7
-  topic: Workshop Vara Ștefaniștilor 7
-  description: Am organizat un WORKSHOP în aula Colegiului Național „Ștefan cel Mare” destinat noilor ștefaniști. Am avut ocazia să le arătăm bobocilor ce înseamnă să faci parte din echipa noastră.<br><i>12 august 2024</i>
-
-- title: Bucharest Twin Cup
-  name: btc
-  subtitle: Am avut plăcerea de a participa împreună cu echipa Heart of Robots la competiția Bucharest Twin Cup formând alianța King of Hearts.<br><br><i>16-18 august 2024</i>
-  img: btc.jpg
-  thumbnail: btc.jpg
-  alt: Bucharest Twin Cup
-  topic: Bucharest Twin Cup
-  description: Am avut plăcerea de a participa împreună cu echipa Heart of Robots la competiția Bucharest Twin Cup formând alianța King of Hearts.<br><br><i>16-18 august 2024</i>
-
-- title: Workshop la început de an școlar
-  name: workshop20s
-  subtitle: Am avut ocazia să ne deschidem porțile și să prezentăm cu entuziasm activitatea clubului nostru de robotică, atât pentru bobocii curioși, cât și pentru ceilalți liceeni dornici să afle mai multe despre ce facem.<br><i>20 septembrie 2024</i>
-  img: workshop20s.jpg
-  thumbnail: workshop20s.jpg
-  alt: Workshop la început de an școlar
-  topic: Workshop la început de an școlar
-  description: Am avut ocazia să ne deschidem porțile și să prezentăm cu entuziasm activitatea clubului nostru de robotică, atât pentru bobocii curioși, cât și pentru ceilalți liceeni dornici să afle mai multe despre ce facem.<br><i>20 septembrie 2024</i>
-
-- title: Noaptea Cercetătorilor Europeni 2024
-  name: NCE2024
-  subtitle: Am avut parte de o seară de neuitat la Noaptea Cercetătorilor Europeni, unde curiozitatea și entuziasmul au fost la cote maxime. Atmosfera plină de curiozitate a creat un cadru ideal pentru a explora tehnologia alături de comunitatea noastră.<br><i>27 septembrie 2024</i>
-  img: NCE2024.jpg
-  thumbnail: NCE2024.jpg
-  alt: Noaptea Cercetătorilor Europeni 2024
-  topic: Noaptea Cercetătorilor Europeni 2024
-  description: Am avut parte de o seară de neuitat la Noaptea Cercetătorilor Europeni, unde curiozitatea și entuziasmul au fost la cote maxime. Atmosfera plină de curiozitate a creat un cadru ideal pentru a explora tehnologia alături de comunitatea noastră.<br><i>27 septembrie 2024</i>
+- title: Xmas Robo Stone
+  name: XmasRoboStone
+  subtitle: Am participat la evenimentul „Xmas Robo Stone”. <b>Am depășit recordul mondial</b> aflat în vigoare la acea dată, cu 374 de puncte. Am obținut locul 3 atât în competiție, cât și la categoria „Design Award”, precum și locul 2 la „Letter Award”.<br><i>21 decembrie 2024</i>
+  img: XmasRoboStone.jpg
+  thumbnail: XmasRoboStone.jpg
+  alt: Xmas Robo Stone 
+  topic: Xmas Robo Stone
+  description: Am participat la evenimentul „Xmas Robo Stone”. <b>Am depășit recordul mondial</b> aflat în vigoare la acea dată, cu 374 de puncte. Am obținut locul 3 atât în competiție, cât și la categoria „Design Award”, precum și locul 2 la „Letter Award”.<br><i>21 decembrie 2024</i>
 
 - title: Winter Dive Meet
   name: WinterDiveMeet
   subtitle: Am participat la evenimentul „Winter Dive Meet”. Ne-am clasat pe locul 4 și conform OPR (Offensive Power Ranking), pe locul 2 în ligă, rezultate care ne-au propulsat în top 150 de echipe la nivel mondial.<br><i>7 decembrie 2024</i>
   img: WinterDiveMeet.jpg
   thumbnail: WinterDiveMeet.jpg
-  alt: Winter Dive Meet
+  alt: Winter Dive Meet 
   topic: Winter Dive Meet
   description: Am participat la evenimentul „Winter Dive Meet”. Ne-am clasat pe locul 4 și conform OPR (Offensive Power Ranking), pe locul 2 în ligă, rezultate care ne-au propulsat în top 150 de echipe la nivel mondial.<br><i>7 decembrie 2024</i>
 
-- title: Xmas Robo Stone
-  name: XmasRoboStone
-  subtitle: Am participat la evenimentul „Xmas Robo Stone”. <b>Am depășit recordul mondial</b> aflat în vigoare la acea dată, cu 374 de puncte. Am obținut locul 3 atât în competiție, cât și la categoria „Design Award”, precum și locul 2 la „Letter Award”.<br><i>21 decembrie 2024</i>
-  img: XmasRoboStone.jpg
-  thumbnail: XmasRoboStone.jpg
-  alt: Xmas Robo Stone
-  topic: Xmas Robo Stone
-  description: Am participat la evenimentul „Xmas Robo Stone”. <b>Am depășit recordul mondial</b> aflat în vigoare la acea dată, cu 374 de puncte. Am obținut locul 3 atât în competiție, cât și la categoria „Design Award”, precum și locul 2 la „Letter Award”.<br><i>21 decembrie 2024</i>
+- title: Noaptea Cercetătorilor Europeni 2024
+  name: NCE2024
+  subtitle: Am avut parte de o seară de neuitat la Noaptea Cercetătorilor Europeni, unde curiozitatea și entuziasmul au fost la cote maxime. Atmosfera plină de curiozitate a creat un cadru ideal pentru a explora tehnologia alături de comunitatea noastră.<br><i>27 septembrie 2024</i>
+  img: NCE2024.jpg
+  thumbnail: NCE2024.jpg
+  alt: Noaptea Cercetătorilor Europeni 2024 
+  topic: Noaptea Cercetătorilor Europeni 2024
+  description: Am avut parte de o seară de neuitat la Noaptea Cercetătorilor Europeni, unde curiozitatea și entuziasmul au fost la cote maxime. Atmosfera plină de curiozitate a creat un cadru ideal pentru a explora tehnologia alături de comunitatea noastră.<br><i>27 septembrie 2024</i>
+
+- title: Workshop la început de an școlar
+  name: workshop20s
+  subtitle: Am avut ocazia să ne deschidem porțile și să prezentăm cu entuziasm activitatea clubului nostru de robotică, atât pentru bobocii curioși, cât și pentru ceilalți liceeni dornici să afle mai multe despre ce facem.<br><i>20 septembrie 2024</i>
+  img: workshop20s.jpg
+  thumbnail: workshop20s.jpg
+  alt: Workshop la început de an școlar 
+  topic: Workshop la început de an școlar
+  description: Am avut ocazia să ne deschidem porțile și să prezentăm cu entuziasm activitatea clubului nostru de robotică, atât pentru bobocii curioși, cât și pentru ceilalți liceeni dornici să afle mai multe despre ce facem.<br><i>20 septembrie 2024</i>
+
+- title: Bucharest Twin Cup
+  name: btc
+  subtitle: Am avut plăcerea de a participa împreună cu echipa Heart of Robots la competiția Bucharest Twin Cup formând alianța King of Hearts.<br><br><i>16-18 august 2024</i>
+  img: btc.jpg
+  thumbnail: btc.jpg
+  alt: Bucharest Twin Cup 
+  topic: Bucharest Twin Cup
+  description: Am avut plăcerea de a participa împreună cu echipa Heart of Robots la competiția Bucharest Twin Cup formând alianța King of Hearts.<br><br><i>16-18 august 2024</i>
+
+- title: Workshop Vara Ștefaniștilor 7
+  name: VS7
+  subtitle: Am organizat un WORKSHOP în aula Colegiului Național „Ștefan cel Mare” destinat noilor ștefaniști. Am avut ocazia să le arătăm bobocilor ce înseamnă să faci parte din echipa noastră.<br><i>12 august 2024</i>
+  img: VS7.jpg
+  thumbnail: VS7.jpg
+  alt: Workshop Vara Ștefaniștilor 7 
+  topic: Workshop Vara Ștefaniștilor 7
+  description: Am organizat un WORKSHOP în aula Colegiului Național „Ștefan cel Mare” destinat noilor ștefaniști. Am avut ocazia să le arătăm bobocilor ce înseamnă să faci parte din echipa noastră.<br><i>12 august 2024</i>
+
+- title: Participare la EduFortress
+  name: Edufortress
+  subtitle: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!<br><br><i>2 iunie 2024</i>
+  img: Edufortress.jpg
+  thumbnail: Edufortress.jpg
+  alt: Participare la EduFortress 
+  topic: Participare la EduFortress
+  description: Am avut plăcerea de a participa la EduFortress, unde am prezentat clubul nostru de robotică și robotul nostru fascinant copiilor!
+
+- title: InBussines Club
+  name: InBClub
+  subtitle: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.<br><i>30 mai 2024</i>
+  img: InBClub.jpg
+  thumbnail: InBClub.jpg
+  alt: InBussines Club 
+  topic: InBussines Club
+  description: Am participat la un bussines meeting alături de alți mari antreprenori unde am avut ocazia de a afla mai multe despre uzul inteligenței artificiale și despre modul în care aceasta poate transforma diverse industrii.
+
+- title: Târgul liceelor
+  name: TLiceelor24
+  subtitle: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.<br><i>29 martie 2024</i>
+  img: TLiceelor24.jpg
+  thumbnail: TLiceelor24.jpg
+  alt: Târgul liceelor 
+  topic: Târgul liceelor
+  description: Clubul nostru și-a promovat atât liceul cât și echipa de robotică în cadrul Târgului de Oferte Educaționale din incinta Shopping City Suceava.
+
+- title: Parteneriat cu Universitatea „Ștefan Cel Mare”
+  name: USV
+  subtitle: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava.<br><i>27 martie 2024</i>
+  img: USV.jpg
+  thumbnail: USV.jpg
+  alt: Parteneriat cu Universitatea „Ștefan Cel Mare” 
+  topic: Parteneriat cu Universitatea „Ștefan Cel Mare”
+  description: Am avut ocazia de a colabora cu cei de la mecatronică de la Universitatea Ștefan Cel Mare din Suceava. Le-am prezentat atât studenților cât și profesorilor universitari robotul nostru de anul acesta și perfomanțele noastre din acest sezon.
+
+- title: Regionala FTC
+  name: Regionala
+  subtitle: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.<br><i>8-10 martie 2024</i>
+  img: Regionala.png
+  thumbnail: Regionala.png
+  alt: Regionala FTC 
+  topic: Regionala FTC
+  description: Am participat la Regionala Nr. 4 de la Iași. În urma muncii noastre și a efortului depus în acest sezon am reușit să obținem premiul INNOVATE AWARD 3rd PLACE.
+
+- title: Ultimul League Meet din sezon
+  name: Lmcyliis
+  subtitle: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.<br><br><br><i>3 februarie 2024</i>
+  img: Lmcyliis.jpg
+  thumbnail: Lmcyliis.jpg
+  alt: Ultimul League Meet din sezon 
+  topic: Ultimul League Meet din sezon
+  description: Am participat la ultimul Meet League din acest sezon FTC. Am reușit să facem ultimele testări ale robotului, dar și a strategiei de joc într-un mediu sigur și competitiv.
+
+- title: LeagueMeet-ul dintre Munți
+  name: Munti
+  subtitle: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.<br><i>27 ianuarie 2024</i>
+  img: Munti.jpg
+  thumbnail: Munti.jpg
+  alt: LeagueMeet-ul dintre Munți 
+  topic: LeagueMeet-ul dintre Munți
+  description: Am organizat "LeagueMeet-ul dintre Munți" de la Vatra Dornei. În urma performanței noastre am obținut locul al 2-lea.
+
+- title: League Meet of Penguins
+  name: Penguins
+  subtitle: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.<br><i>20 ianuarie 2024</i>
+  img: Penguins.jpg
+  thumbnail: Penguins.jpg
+  alt: League Meet of Penguins 
+  topic: League Meet of Penguins
+  description: Am participat la League Meet of Penguins, în Suceava! Am avut ocazia încă odată de a ne testa autonomia și strategia de joc într-un mediu bine organizat alături de celelalte echipe.
+
+- title: Dual Meet
+  name: Dual_meet
+  subtitle: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.<br><br><i>13 ianuarie 2024</i>
+  img: Dual_meet.jpg
+  thumbnail: Dual_meet.jpg
+  alt: Dual Meet 
+  topic: Dual Meet
+  description: Am participat la primul nostru League Meet din sezonul 2024. De asemenea, în urma muncii noastre am reușit să obținem premiul „Best Auto”.
+
+- title: Schimb de experiență
+  name: Moldova
+  subtitle: un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență.<br><i>5 ianuarie 2024</i>
+  img: Moldova.png
+  thumbnail: Moldova.png
+  alt: Schimb de experiență 
+  topic: Schimb de experiență
+  description: Un grup de profesori din Republica Moldova au fost invitați să participe la un schimb de experiență. Ideile inovatoare și tehnologia avansată s-au unit pentru a crea o atmosferă propice pentru schimbul de cunoștințe. Profesorii moldoveni au fost primiți cu căldură de către membrii entuziaști ai clubului de robotică, care au prezentat cu mândrie proiectele lor și realizările tehnologice.
+
+- title: Târgul de Crăciun pentru caritate
+  name: craciun2
+  subtitle: Marți, 19 decembrie, a avut loc mult așteptatul Târg Caritabil de Crăciun din cadrul Colegiului Național „Ștefan cel Mare”!<br>Al treilea an la rând!<br><i>19 decembrie 2023</i>
+  img: Craciun2.jpg
+  thumbnail: Craciun2.jpg
+  alt: Târgul de Crăciun pentru caritate 
+  topic: Târgul de Crăciun pentru caritate
+  description: Al treilea an la rând!
+
+- title: Secret Santa în cadrul clubului
+  name: Santa
+  subtitle: Vă dorim un Crăciun fericit din partea echipei Royal Engineers!<br><br><i>15 decembrie 2023</i>
+  img: Santa.png
+  thumbnail: Santa.png
+  alt: Secret Santa în cadrul clubului 
+  topic: Secret Santa în cadrul clubului
+  description: Vă dorim un Crăciun fericit din partea echipei Royal Engineers!
+
+- title: Noaptea Cercetătorilor Europeni 2023
+  name: noaptea_cercetatorilor23
+  subtitle: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!<br><i>29 septembrie 2023</i>
+  img: noaptea_cercetatorilor23.jpg
+  thumbnail: noaptea_cercetatorilor23.jpg
+  alt: A doua apariție a clubului la Noaptea Cercetătorilor Europeni! 
+  topic: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
+  description: A doua apariție a clubului la Noaptea Cercetătorilor Europeni!
+
+- title: Recruitment day
+  name: recruitment
+  subtitle: Din ce în ce mai mulți membri! Alătură-te și tu echipei noastre!<br><br><i>22 septembrie 2023</i>
+  img: recruitment.jpg
+  thumbnail: recruitment.jpg
+  alt: Din ce în ce mai mulți membrii! 
+  topic: Din ce în ce mai mulți membrii!
+  description: Din ce în ce mai mulți membrii!
+
+- title: Prima întâlnire a anului cu bobocii
+  name: boboci1
+  subtitle: Ne-am văzut cu viitorii membrii ai clubului<br><i>28 august 2023</i>
+  img: boboci1.jpg
+  thumbnail: boboci1.jpg
+  alt: Prima întâlnire a anului cu bobocii 
+  topic: Prima întâlnire a anului cu bobocii
+  description: Ne-am văzut cu viitorii membrii ai clubului
+
+- title: „Vara Ștefaniștilor”, școala de vară de la CNSCM
+  name: Vara_Stef
+  subtitle: Activitate la Vara Ștefaniștilor de la Colegiul Național „Ștefan cel Mare” Suceava<br><i>11 august 2023</i>
+  img: Vara_stef.jpg
+  thumbnail: Vara_stef.jpg
+  alt: „Vara Ștefaniștilor”, școala de vară de la CNSCM 
+  topic: „Vara Ștefaniștilor”, școala de vară de la CNSCM
+  description: Activitate la Vara Ștefaniștilor de la Colegiul Național „Ștefan cel Mare” Suceava
+
+- title: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale”
+  name: Monitorul2707
+  subtitle: Am apărut în Monitorul de Suceava!<br><i>27 iulie 2023</i>
+  img: monitorul.png
+  thumbnail: monitorul_ziar.png
+  alt: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale” 
+  topic: „Nouă liceeni suceveni au construit un robot cu care fac senzație la concursuri naționale și vor să ajungă la mondiale”
+  description: "Am apărut în Monitorul de Suceava! Vezi mai mult aici: <a href=\"https://www.monitorulsv.ro/Local/2023-07-27/Noua-liceeni-suceveni-au-construit-un-robot-cu-care-fac-senzatie-la-concursuri-nationale-si-vor-sa-ajunga-la-mondiale\">https://www.monitorulsv.ro/Local/2023-07-27/Noua-liceeni-suceveni-au-construit-un-robot-cu-care-fac-senzatie-la-concursuri-nationale-si-vor-sa-ajunga-la-mondiale</a>"
+
+- title: DEMO Someș Tech Challenge Dej
+  name: DEMO_S
+  subtitle: Echipa în vizită la Dej, câștigând locul al treilea<br><i>2 iulie 2023</i>
+  img: Dej.jpg
+  thumbnail: Dej.jpg
+  alt: DEMO Someș Tech Challenge 
+  topic: DEMO Someș Tech Challenge
+  description: Echipa în vizită la Dej, câștigând locul al treilea
+
+- title: DEMO springLoad() Târgu Neamț
+  name: DEMO
+  subtitle: Echipa în vizită la Târgu Neamț, câștigând FINALIST ALLIANCE CAPTAIN<br><i>9 iunie 2023</i>
+  img: targu_neamt.jpeg
+  thumbnail: targu_neamt.jpeg
+  alt: DEMO Târgu Neamț 
+  topic: DEMO Târgu Neamț
+  description: Echipa în vizită la Târgu Neamț, câștigând FINALIST ALLIANCE CAPTAIN
+
+- title: Târgul Liceelor
+  name: targulliceelor
+  subtitle: Clubul de robotică promovând educația STEAM<br><br><i>19 mai 2023</i>
+  img: targul_liceelor_2023.jpg
+  thumbnail: targul_liceelor_2023.jpg
+  alt: Activitate la Târgul Liceelor 
+  topic: Activitate la Târgul Liceelor
+  description: Clubul de robotică promovând educația STEAM
+
+- title: Activitate la Târgul de Crăciun
+  name: craciun
+  subtitle: Clubul de robotică la vânzare de piese printate<br><i>decembrie 2021, 2022</i>
+  img: Craciun.png
+  thumbnail: Craciun.png
+  alt: Activitate la Târgul de Crăciun 
+  topic: Activitate la Târgul de Crăciun
+  description: Clubul de robotică la vânzare de piese printate
+
+- title: Activitate la Noaptea Cercetătorilor
+  name: noaptea_cercetatorilor
+  subtitle: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni<br><i>30 septembrie 2022</i>
+  img: Noaptea_Cercetatorilor.jpg
+  thumbnail: Noaptea_Cercetatorilor.jpg
+  alt: Activitate la Noaptea Cercetătorilor 
+  topic: Activitate la Noaptea Cercetătorilor
+  description: Clubul de robotică la Universitatea „Ștefan cel Mare” pentru Noaptea Cercetătorilor Europeni
+
+- title: Robotul de sezonul trecut
+  name: robot4
+  subtitle: Nu este el cel mai arătos, dar este funcțional<br><i>13 martie 2022</i>
+  img: robot_anul_trecut.jpg
+  thumbnail: robot_anul_trecut.jpg
+  alt: Robotul de sezonul trecut 
+  topic: Robotul de sezonul trecut
+  description: Nu este el cel mai arătos, dar este funcțional
+
+- title: Florin la București
+  name: robot3
+  subtitle: Gata de competiție!<br><br><i>14 februarie 2023</i>
+  img: full_robot_Bucuresti.png
+  thumbnail: robot_Bucuresti.png
+  alt: Florin la București 
+  topic: Florin la București
+  description: Gata de competiție!
+
+- title: Robotul înainte de etapa regională
+  name: robot2
+  subtitle: Versiunea a doua a robotului, pregătit de etapa regională FTC<br><i>11 februarie 2023</i>
+  img: robot_liceu.jpg
+  thumbnail: robot_liceu.jpg
+  alt: Robotul Florin înainte de etapa regională 
+  topic: Robotul Florin înainte de etapa regională
+  description: Versiunea a doua a robotului, pregătit de etapa regională FTC
+
+- title: Robotul Florin la Unirea Roboților
+  name: robot1
+  subtitle: Florin în vizită la Ploiești<br><br><i>24 ianuarie 2023</i>
+  img: robot_Ploiesti.jpg
+  thumbnail: robot_Ploiesti.jpg
+  alt: Robotul la Ploiești 
+  topic: Robotul la Ploiești
+  description: Florin în vizită la Ploiești
+
+- title: Etapa regională FTC
+  name: regionala
+  subtitle: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challenge<br><i>13-15 februarie 2023</i>
+  img: Bucuresti.jpg
+  thumbnail: Bucuresti.jpg
+  alt: Etapa regională FTC 
+  topic: Etapa regională FTC
+  description: La Universitatea Politehnică din București pentru etapa regională FIRST Tech Challenge
+
+- title: Primul DEMO
+  name: demo
+  subtitle: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”<br><i>24 ianuarie 2023</i>
+  img: Ploiesti.jpg
+  thumbnail: Ploiesti.jpg
+  alt: Primul DEMO 
+  topic: Primul DEMO
+  description: Prima demonstrație, la Ploiești, Liceul Tehnologic Energetic „Elie Radu”
+
+- title: Începutul sezonului FTC 2023
+  name: inceputuri
+  subtitle: Echipa în fața Colegiului Național „Ștefan cel Mare”<br><i>21 ianuarie 2023</i>
+  img: liceu.jpg
+  thumbnail: liceu.jpg
+  alt: Începuturi 
+  topic: Începuturi
+  description: Echipa în fața Colegiului Național „Ștefan cel Mare”
