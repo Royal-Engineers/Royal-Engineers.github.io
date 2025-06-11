@@ -30,5 +30,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-github-metadata
